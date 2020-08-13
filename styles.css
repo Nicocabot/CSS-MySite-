@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Noto Serif', serif;
+}
+
+h1 {
+  font-size: 4.375rem;
+  color: #3c2946;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+h2{
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #3c2946;
+  margin: 0;
+}
+h3{
+  color: #3c2946;
+}
+a{
+  color: #3c2946;
+}
+
+
+.top-container {
+  background-color: #bbd196;
+  position: relative;
+  padding: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  top: 200px;
+}
+.foto-mia{
+  margin-top: 45px;
+}
+.foto-rugby{
+  width: 50%;
+  float: left;
+  margin-right: 30px;
+}
+.foto-guitarra{
+  width: 50%;
+  float: right;
+  margin-left: 30px;
+}
+.habilidades{
+  margin: 40px auto 40px auto;
+  line-height: 2;
+  width: 60%;
+  text-align: center;
+}
+hr{
+  margin-top: 100px;
+  margin-bottom: 100px;
+  border: 15px;
+  border-style: none none dotted none;
+  width: 15%;
+  color: #56556e;
+}
